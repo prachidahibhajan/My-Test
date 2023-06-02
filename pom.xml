@@ -51,7 +51,7 @@
         <configuration>
         <archive>
          <manifest>
-             <mainclass>com.example.Arun.app</mainclass>
+             <mainclass>com.selenium.Arun.App</mainclass>
              </manifest>
             </archive>
          
