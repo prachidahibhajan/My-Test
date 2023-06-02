@@ -36,6 +36,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
 	</dependencies>
 
 	<build>
@@ -50,7 +51,7 @@
         <configuration>
         <archive>
          <manifest>
-             <mainclass>com.selenium.Arun.App</mainclass>
+             <mainclass>com.example.Arun.app</mainclass>
              </manifest>
             </archive>
          
